@@ -62,4 +62,4 @@ O professor propôs as seguintes atividades:
 | Pablo Levy Fernandes Alcântara         | 202407429           | plfa1@ic.ufal.br       | Ciência da Computação |
 
 ## Licença
-<p>Todos os Direitos são reservados aos autores do projeto - 2024</p>
+<p>Todos os Direitos são reservados aos autores do projeto - MIT License 2024</p>
