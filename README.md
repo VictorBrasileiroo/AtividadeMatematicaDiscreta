@@ -61,5 +61,5 @@ O professor propôs as seguintes atividades:
 | Victor André Lopes Brasileiro          | 202407269           | valb1@ic.ufal.br       | Ciência da Computação |
 | Pablo Levy Fernandes Alcântara         | 202407429           | plfa1@ic.ufal.br       | Ciência da Computação |
 
-## Licensa 
+## Licença
 <p>Todos os Direitos são reservados aos autores do projeto - 2024</p>
