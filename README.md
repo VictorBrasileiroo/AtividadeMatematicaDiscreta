@@ -42,12 +42,12 @@ O professor propôs as seguintes atividades:
 
 1. **Clone o Repositório**: 
    ```bash
-   git clone https://github.com/VictorBrasileiroo/Cryptography-Project---Discrete-Mathematics.git
+   git clone https://github.com/VictorBrasileiroo/CryptographyProject.git
    
    ```
 2. **Navegue até o Repositório**: 
    ```bash
-   cd Cryptography-Project---Discrete-Mathematics
+   cd CryptographyProject
    ```
 
 ## Autores:
