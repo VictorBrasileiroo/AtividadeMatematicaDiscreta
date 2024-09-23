@@ -2,7 +2,7 @@
 
 Este repositório contém os programas desenvolvidos para a disciplina de Matemática Discreta, ministrada pelo Professor Bruno Pimentel no Instituto de Computação da UFAL (IC/UFAL).
 
-<img href="https://ufal.br/ufal/resolveuid/b9544c5e4bf74b0085c0fb88a79d8179"></img>
+<img src="https://ufal.br/ufal/resolveuid/b9544c5e4bf74b0085c0fb88a79d8179" alt="Descrição da imagem">
 
 ## Questões Solicitadas
 
